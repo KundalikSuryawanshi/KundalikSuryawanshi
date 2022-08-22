@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KundalikSuryawanshi
 - 👀 I’m interested in Android and iOS development
 - 🌱 I’m currently learning Android architecture mvvm 
-- 💞️ I’m looking to collaborate on open source Android projects
+- work on personal project
 
 <!---
 KundalikSuryawanshi/KundalikSuryawanshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
