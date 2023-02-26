@@ -4,8 +4,6 @@
 
 #### 👀 I’m interested in Android and iOS development📱, Programming is my hobby and transforming a hobby into a career has been an incredible and rewarding experience for me.
 
-## [Portfolio :](https://kundaliksuryawanshi.super.site/)https://kundaliksuryawanshi.super.site
-
 
 ## Languages, Tools and Skills⚒️
 
