@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=KundalikSuryawanshi&&style=flat-square"/>
+  
 # Hi, I’m Kundalik Suryawanshi👋
 
 #### A highly motivated individual🧑‍💻 with constantly developing skills and growing professionally🚀. I develop creativity, Innovation and aesthetics🔖.
@@ -13,12 +15,20 @@
 ![Firebase](https://camo.githubusercontent.com/a65fcdf7030d79c00f4c3d8bab84de39107f5777fca4d12f0cb64440015183fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365)
 
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KundalikSuryawanshi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
 ## Get in Touch 🤝
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundalik-gaurav-suryawanshi-ba324b244/)
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kundaliksuryawanshi.super.site/)
+
+<a href="https://instagram.com/gaurav_suryawanshi_official" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+
 
 
 <!---
