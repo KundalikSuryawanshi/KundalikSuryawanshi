@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=KundalikSuryawanshi&&style=flat-square"/>
   
-# Hi, I’m Kundalik Suryawanshi👋
+# Hi, I’m Gaurav,(Kundalik) Suryawanshi👋
 
 #### A highly motivated individual🧑‍💻 with constantly developing skills and growing professionally🚀. I develop creativity, Innovation and aesthetics🔖.
 
@@ -18,8 +18,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KundalikSuryawanshi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!--<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KundalikSuryawanshi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
 
+<div align="center"><a href="http://www.github.com/KundalikSuryawanshi"><img src="https://github-readme-stats.vercel.app/api?username=KundalikSuryawanshi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KundalikSuryawanshi's GitHub stats" /></a></div>
+
+<div align = "center"><a href="http://www.github.com/KundalikSuryawanshi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KundalikSuryawanshi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
 
 ## Get in Touch 🤝
 
