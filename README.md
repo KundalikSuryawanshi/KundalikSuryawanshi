@@ -1,37 +1,125 @@
 <img src="https://komarev.com/ghpvc/?username=KundalikSuryawanshi&&style=flat-square"/>
-  
-# Hi, I’m Gaurav,(Kundalik) Suryawanshi👋
 
-#### A highly motivated individual🧑‍💻 with constantly developing skills and growing professionally🚀. I develop creativity, Innovation and aesthetics🔖.
+# Hi, I’m Kundalik Suryawanshi 👋
 
-#### 👀 I’m interested in Android and iOS development📱, Programming is my hobby and transforming a hobby into a career has been an incredible and rewarding experience for me.
+🚀 Android Developer | Fintech | NFC | POS Systems | Hardware Integration  
 
+I specialize in building **real-world Android systems** that interact with **hardware devices, payment infrastructure, and embedded systems**.
 
-## Languages, Tools and Skills⚒️
+---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🧠 About Me
 
+- 💳 Building **NFC-based cashless payment systems (closed-loop)**
+- 📡 Working with **POS devices, banking integrations & transaction flows**
+- 🔌 Experienced in **Bluetooth, BLE, USB & serial device communication**
+- 🏢 Developing **kiosk, billing & access control systems**
+- 🧾 Strong experience in **printing systems (thermal, PVC, Zebra, ESC/POS)**
+- 🔐 Working on **identity verification (Aadhaar APIs) & face recognition systems**
 
-## Github Stats  
-<!--<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KundalikSuryawanshi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
+---
 
-<div align="center"><a href="http://www.github.com/KundalikSuryawanshi"><img src="https://github-readme-stats.vercel.app/api?username=KundalikSuryawanshi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KundalikSuryawanshi's GitHub stats" /></a></div>
+## 🚀 What I Work On
 
-<div align = "center"><a href="http://www.github.com/KundalikSuryawanshi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KundalikSuryawanshi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
+### 💳 Fintech & Payment Systems
+- NFC-based **closed-loop payment solutions**
+- POS device integrations (banking + NFC)
+- Transaction workflows with **secure validation**
+- Host Card Emulation (HCE) for mobile-based payments & access
 
-## Get in Touch 🤝
+---
+
+### 🔐 Access Control & Identity Systems
+- NFC-based **access control systems**
+- Aadhaar-based **identity verification integrations**
+- Face verification using **third-party AI models**
+- Ticket validation & OTP-based systems
+
+---
+
+### 🖥️ Kiosk & POS Solutions
+- Billing & invoicing systems for POS/kiosk machines
+- Ticket booking & pickup applications
+- Accreditation & identity printing systems
+
+---
+
+### 🔌 Hardware & Device Integration
+- Bluetooth & BLE device communication
+- USB & serial communication with embedded systems
+- Power bank rental system (cashless + hardware integration)
+
+---
+
+### 🖨️ Printing Systems
+- Thermal printers (Bluetooth & USB - ESC/POS)
+- Zebra / VAX printers (BLE)
+- PVC card printers & card dispenser integration
+- Bitmap-based receipt & invoice generation engine
+
+---
+
+### 📡 Other Integrations
+- Laser scanners
+- File handling & storage systems
+- Crash analytics & logging systems
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Android
+- Kotlin | Java  
+- MVVM | Clean Architecture  
+- Jetpack Compose  
+
+### 💳 Fintech & NFC
+- NFC (ISO14443, sectors, access bits)
+- Closed-loop payment systems  
+- POS integrations  
+- Host Card Emulation (HCE)
+
+### 🔌 Hardware
+- Bluetooth (Classic + BLE)
+- USB communication & Serial protocols
+- ESC/POS, Zebra printers
+- Embedded device integrations
+
+### 🌐 Backend & APIs
+- REST APIs | Retrofit  
+- Aadhaar verification APIs  
+- Firebase (Auth, Firestore, Realtime DB)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [Generic Printer Library](https://github.com/KundalikSuryawanshi/Generic-Printer)
+Android Bluetooth thermal printer library supporting:
+- Bitmap / PNG / JPG printing  
+- ESC/POS commands  
+- Real-world POS integrations  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KundalikSuryawanshi&show_icons=true&count_private=true&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KundalikSuryawanshi&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundalik-gaurav-suryawanshi-ba324b244/)
 
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kundalik.super.site/)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kundalik.super.site/)
+---
 
-<a href="https://instagram.com/gaurav_suryawanshi_official" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-
-
-
-<!---
-KundalikSuryawanshi/KundalikSuryawanshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 *I don’t just build apps — I build systems that connect software with the real world.*
