@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=KundalikSuryawanshi&&style=flat-square"/>
 
-# Hi, I’m Kundalik Suryawanshi 👋
+# Hi, I’m Gaurav ( Kundalik )Suryawanshi 👋
 
 🚀 Android Developer | Fintech | NFC | POS Systems | Hardware Integration  
 
